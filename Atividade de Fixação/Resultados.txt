@@ -1,0 +1,33 @@
+Primeira execução
+
+Tempo de uma execução do programa 1: 0.002981901168823242 segundos
+Tempo médio de 5 execuções do programa 1: 0.0026153564453125 segundos
+Tempo médio de 10 execuções do programa 1: 0.002513408660888672 segundos
+Tempo médio de 50 execuções do programa 1: 0.002558927536010742 segundos
+Tempo médio de 100 execuções do programa 1: 0.0026168537139892576 segundos
+
+Comentario: O tempo de execução foi bem parecido independente do numero de execuções,
+pesquisando entendi que o meu sistema pode ter algumas otimizações como paralelização
+o que gera a execução mais rapido o clock pode também influenciar nisso
+Meu processador é um Intel(R) Core(TM) i7-1255U   3.50 GHz com 10 cores
+
+Segunda Execução com menos processos ativos
+
+Tempo de uma execução do programa 1: 0.0 segundos
+Tempo médio de 5 execuções do programa 1: 0.0031556606292724608 segundos
+Tempo médio de 10 execuções do programa 1: 0.0015610694885253907 segundos
+Tempo médio de 50 execuções do programa 1: 0.0022049522399902343 segundos
+Tempo médio de 100 execuções do programa 1: 0.002359168529510498 segundos
+
+Comentario: Fora as 10 execuções todas as outras foram menores mas não tão significativo e a unica execução foi
+instantanea o que nao sei explicar.
+
+Terceira Execução com menos processos ativos ( Para confirmar os dados anteriores)
+
+Tempo de uma execução do programa 1: 0.011032581329345703 segundos
+Tempo médio de 5 execuções do programa 1: 0.0 segundos
+Tempo médio de 10 execuções do programa 1: 0.003126692771911621 segundos
+Tempo médio de 50 execuções do programa 1: 0.002530536651611328 segundos
+Tempo médio de 100 execuções do programa 1: 0.00251387357711792 segundos
+
+
